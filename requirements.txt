@@ -1,0 +1,6 @@
+pdfrw==0.4
+PyPDF2==1.26.0
+reportlab==3.5.68
+xlrd==2.0.1
+argparse
+io
