@@ -9,7 +9,7 @@ Check "Needs work" for the current limitations and work-arounds
 
 Make sure to install dependancies from requirements.txt --> ```pip install -r requirements.txt```
 
-Either make it executable with ```chmod +x excel_to_pdf.py``` or run with ```python3 excel_to_pdf.py [args]```
+Either make it executable with ```chmod +x excel_to_pdf.py``` then run it with ```./excel_to_pdf.py [args]``` or ```python3 excel_to_pdf.py [args]```
 
 -h and --help will have more details.
 
